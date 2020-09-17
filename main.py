@@ -22,8 +22,7 @@ def run():
   print(f"sum is {n1}.")
 
   s = input("Enter a string: ")
-  s = str(s)
   s = print_n(s,n)
 
 if __name__=="__main__":
-    run()
+  run()
